@@ -5,7 +5,7 @@ require "rich/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "rich"
+  s.name        = "st-rich"
   s.version     = Rich::VERSION
   s.authors     = ["Bastiaan Terhorst"]
   s.email       = ["bastiaan@perceptor.nl"]
